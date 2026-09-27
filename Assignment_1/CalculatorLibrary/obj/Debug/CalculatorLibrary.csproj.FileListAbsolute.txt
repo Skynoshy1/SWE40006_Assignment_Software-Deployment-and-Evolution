@@ -1,0 +1,6 @@
+C:\Users\12a5n\source\repos\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+C:\Users\12a5n\source\repos\Calculator\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+C:\Users\12a5n\source\repos\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.AssemblyReference.cache
+C:\Users\12a5n\source\repos\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\12a5n\source\repos\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+C:\Users\12a5n\source\repos\Calculator\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb

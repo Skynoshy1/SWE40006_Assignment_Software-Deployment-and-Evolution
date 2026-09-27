@@ -1,0 +1,16 @@
+﻿[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+
+[Files]
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\Upload\filemap.pri"			"resources.pri"
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\PackageUploadLayout\SampleApp\SampleApp.exe.config"			"SampleApp\SampleApp.exe.config"
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\PackageUploadLayout\SampleApp\SampleApp.exe"			"SampleApp\SampleApp.exe"
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\PackageUploadLayout\SampleApp\CalculatorLibrary.dll"			"SampleApp\CalculatorLibrary.dll"
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\PackageUploadLayout\Images\Wide310x150Logo.scale-200.png"			"Images\Wide310x150Logo.scale-200.png"
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\PackageUploadLayout\Images\StoreLogo.png"			"Images\StoreLogo.png"
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\PackageUploadLayout\Images\Square44x44Logo.targetsize-24_altform-unplated.png"			"Images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\PackageUploadLayout\Images\Square44x44Logo.scale-200.png"			"Images\Square44x44Logo.scale-200.png"
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\PackageUploadLayout\Images\Square150x150Logo.scale-200.png"			"Images\Square150x150Logo.scale-200.png"
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\PackageUploadLayout\Images\SplashScreen.scale-200.png"			"Images\SplashScreen.scale-200.png"
+"C:\Users\12a5n\source\repos\Calculator\WapPackage\obj\x64\Release\PackageUploadLayout\Images\LockScreenLogo.scale-200.png"			"Images\LockScreenLogo.scale-200.png"

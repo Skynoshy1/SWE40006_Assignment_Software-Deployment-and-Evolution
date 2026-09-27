@@ -1,0 +1,9 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Package Name="Desktop Calculator" Manufacturer="Nguyen Huu Thien Khang" Version="1.3.0.0" UpgradeCode="c5f6c8d2-4e31-4e78-9a25-e51c8b320d91">
+    <MajorUpgrade DowngradeErrorMessage="!(loc.DowngradeError)" />
+
+    <Feature Id="Main">
+      <ComponentGroupRef Id="ExampleComponents" />
+    </Feature>
+  </Package>
+</Wix>

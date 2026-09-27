@@ -1,0 +1,13 @@
+C:\Users\12a5n\source\repos\Calculator\WapPackage\Images\SplashScreen.scale-200.png
+C:\Users\12a5n\source\repos\Calculator\WapPackage\Images\LockScreenLogo.scale-200.png
+C:\Users\12a5n\source\repos\Calculator\WapPackage\Images\Square150x150Logo.scale-200.png
+C:\Users\12a5n\source\repos\Calculator\WapPackage\Images\Square44x44Logo.scale-200.png
+C:\Users\12a5n\source\repos\Calculator\WapPackage\Images\Square44x44Logo.targetsize-24_altform-unplated.png
+C:\Users\12a5n\source\repos\Calculator\WapPackage\Images\StoreLogo.png
+C:\Users\12a5n\source\repos\Calculator\WapPackage\Images\Wide310x150Logo.scale-200.png
+C:\Users\12a5n\source\repos\Calculator\WapPackage\bin\x64\Release\resources.pri
+C:\Users\12a5n\source\repos\Calculator\CalculatorLibrary\bin\Release\CalculatorLibrary.dll
+C:\Users\12a5n\source\repos\Calculator\CalculatorLibrary\bin\Release\CalculatorLibrary.pdb
+C:\Uni\SampleApp\SampleApp\bin\Release\SampleApp.exe
+C:\Uni\SampleApp\SampleApp\bin\Release\SampleApp.exe.config
+C:\Uni\SampleApp\SampleApp\bin\Release\SampleApp.pdb

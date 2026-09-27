@@ -1,0 +1,6 @@
+BuiltContentOutput	C:\Users\12a5n\source\repos\Calculator\Calculator\obj\x64\Debug\en-US\cab1.cab
+BuiltPdbOutput	C:\Users\12a5n\source\repos\Calculator\Calculator\obj\x64\Debug\en-US\Calculator.wixpdb
+BuiltTargetOutput	C:\Users\12a5n\source\repos\Calculator\Calculator\obj\x64\Debug\en-US\Calculator.msi
+Input	C:\Uni\SampleApp\SampleApp\bin\Debug\\CalculatorLibrary.dll
+Input	C:\Uni\SampleApp\SampleApp\bin\Debug\\SampleApp.exe
+Intermediate	C:\Users\12a5n\source\repos\Calculator\Calculator\obj\x64\Debug\en-US\cab1.cab

@@ -1,0 +1,8 @@
+C:\Users\12a5n\source\repos\Calculator\Calculator\obj\x64\Debug\Calculator.wixproj.CoreCompileInputs.cache
+C:\Users\12a5n\source\repos\Calculator\Calculator\bin\x64\Debug\en-US\Calculator.msi
+C:\Users\12a5n\source\repos\Calculator\Calculator\bin\x64\Debug\en-US\cab1.cab
+C:\Users\12a5n\source\repos\Calculator\Calculator\bin\x64\Debug\en-US\Calculator.wixpdb
+C:\Users\12a5n\source\repos\Calculator\Calculator\obj\x64\Debug\en-US\cab1.cab
+C:\Users\12a5n\source\repos\Calculator\Calculator\obj\x64\Debug\en-US\Calculator.msi
+C:\Users\12a5n\source\repos\Calculator\Calculator\obj\x64\Debug\en-US\Calculator.wixpdb
+C:\Users\12a5n\source\repos\Calculator\Calculator\obj\x64\Debug\Calculator.wixproj.BindTracking-en-US.txt

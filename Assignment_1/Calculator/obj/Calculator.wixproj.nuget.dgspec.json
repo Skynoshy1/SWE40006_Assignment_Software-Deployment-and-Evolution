@@ -1,0 +1,67 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\12a5n\\source\\repos\\Calculator\\Calculator\\Calculator.wixproj": {}
+  },
+  "projects": {
+    "C:\\Users\\12a5n\\source\\repos\\Calculator\\Calculator\\Calculator.wixproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\12a5n\\source\\repos\\Calculator\\Calculator\\Calculator.wixproj",
+        "projectName": "Calculator",
+        "projectPath": "C:\\Users\\12a5n\\source\\repos\\Calculator\\Calculator\\Calculator.wixproj",
+        "packagesPath": "C:\\Users\\12a5n\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\12a5n\\source\\repos\\Calculator\\Calculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\12a5n\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "native"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "native": {
+            "framework": "native",
+            "targetAlias": "native",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "native": {
+          "framework": "native",
+          "targetAlias": "native"
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
